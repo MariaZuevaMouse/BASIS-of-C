@@ -1,0 +1,3 @@
+﻿  Function.c
+e:\100_projects_code\fundamental_с\c_fundamentals\5_pre_headers_functions\function.c(17): warning C4013: isPrime: нет определения; предполагается "extern" с возвратом типа "int"
+  5_pre_headers_functions.vcxproj -> E:\100_Projects_code\fundamental_С\C_fundamentals\Debug\5_pre_headers_functions.exe

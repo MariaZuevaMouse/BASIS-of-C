@@ -1,0 +1,7 @@
+﻿  Strings.c
+e:\100_projects_code\fundamental_с\c_fundamentals\8_strings\strings.c(7): warning C4013: tolower: нет определения; предполагается "extern" с возвратом типа "int"
+e:\100_projects_code\fundamental_с\c_fundamentals\8_strings\strings.c(10): warning C4047: =: "char *" отличается по уровням косвенного обращения от "errno_t"
+e:\100_projects_code\fundamental_с\c_fundamentals\8_strings\strings.c(11): warning C4013: ctrcopy: нет определения; предполагается "extern" с возвратом типа "int"
+e:\100_projects_code\fundamental_с\c_fundamentals\8_strings\strings.c(28): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+Strings.obj : error LNK2019: ссылка на неразрешенный внешний символ _ctrcopy в функции _helloFunction
+E:\100_Projects_code\fundamental_С\C_fundamentals\Debug\8_strings.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Second_terms.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  TermsClass.c
+e:\100_projects_code\fundamental_с\c_fundamentals\second_terms\termsclass.c(4): warning C4101: answer: неиспользованная локальная переменная
+  Second_terms.vcxproj -> E:\100_Projects_code\fundamental_С\C_fundamentals\Debug\2_Second_terms.exe

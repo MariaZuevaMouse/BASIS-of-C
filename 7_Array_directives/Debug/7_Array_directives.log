@@ -1,0 +1,3 @@
+﻿  Tasks.c
+e:\100_projects_code\fundamental_с\c_fundamentals\7_array_directives\tasks.c(63): warning C4133: инициализация: несовместимые типы - из "unsigned int *" в "unsigned short *"
+  7_Array_directives.vcxproj -> E:\100_Projects_code\fundamental_С\C_fundamentals\Debug\7_Array_directives.exe

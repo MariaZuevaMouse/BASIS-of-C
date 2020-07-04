@@ -1,0 +1,9 @@
+Debug
+.vs
+.git
+*.cpp
+*.aps
+*.rc
+*.vcxproj
+*.filters
+*.user
